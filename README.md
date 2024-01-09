@@ -21,3 +21,11 @@ console.log('Punch the life button 🚀');
 <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,nodejs,mongodb,react,tailwind,express,astro,docker" />
 </p>
+
+<hr/>
+<p align="center">
+    <a href="https://luis.bazan.pe">
+        <img height=170rem src="https://github-readme-stats.vercel.app/api?username=luisbazandev&theme=prussian&show_icons=true&hide_border=true&count_private=true">
+        <img height=170rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisbazandev&theme=prussian&show_icons=true&hide_border=true&layout=compact">
+    </a>
+</p>
