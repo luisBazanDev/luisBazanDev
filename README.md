@@ -1,8 +1,6 @@
-## Hi there 👋, I'm Luis Bazán
+## Hi there 👋
 
-- Software developer from Perú.
-- A passionate problem solver.
-- Fan of JavaScript
+I'm Luis Bazán, a dedicated software developer from Perú, passionate about crafting high-quality solutions to complex problems. With a solid foundation in various programming languages and technologies, I constantly strive to expand my knowledge and expertise in software development.
 
 # Lifestyle
 
