@@ -2,7 +2,11 @@
 
 I'm Luis Bazán, a dedicated software developer from Perú, passionate about crafting high-quality solutions to complex problems. With a solid foundation in various programming languages and technologies, I constantly strive to expand my knowledge and expertise in software development.
 
-# Lifestyle
+## About me
+
+I thrive on challenges and enjoy pushing the boundaries of what's possible in the world of technology. Whether it's building scalable web applications or diving into the world of embedded systems, I'm always excited to tackle new projects and learn something new along the way.
+
+## Lifestyle
 
 ```
 console.log('Punch the life button 🚀');
