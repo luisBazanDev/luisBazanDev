@@ -45,7 +45,7 @@ console.log('Punch the life button 🚀');
     <a href="https://www.youtube.com/@luisbazandev">
         <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-    <a href="mailto:luis@bazan.pe">
-        <img src="https://img.shields.io/badge/luis@bazan.pe-1C1C1C?style=for-the-badge" />
+    <a href="mailto:me@luisb.space">
+        <img src="https://img.shields.io/badge/me@luisb.space-1C1C1C?style=for-the-badge" />
     </a>
 </p>
